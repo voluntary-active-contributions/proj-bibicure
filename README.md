@@ -1,8 +1,8 @@
-# proj-bibicure - Bibi cute(?) wild animal watching system -
+# Bibi cute(?) wild animal watching system
 
 学内に出る野生動物たちを「見まもる」もとい「監視」します
 
-## 基本情報（大学の地図）
+## 基本情報（キャンパスの地図）
 
 ![](images/chitose-bibi-758.png)
 
